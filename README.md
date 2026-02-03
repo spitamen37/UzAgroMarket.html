@@ -1,2 +1,2 @@
-# UzAgroMarket.html
+# UzAgroMarket.uz
 Сайт для купли и продажи овощей фруктов и ягод
